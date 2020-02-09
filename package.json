@@ -1,0 +1,16 @@
+{
+  "name": "lambda1",
+  "version": "1.0.0",
+  "description": "test lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karan",
+  "license": "ISC",
+  "dependencies": {
+    "auto-bind": "^4.0.0",
+    "aws-sdk": "^2.598.0",
+    "caller-module": "^1.0.4"
+  }
+}
